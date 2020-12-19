@@ -1,6 +1,8 @@
 # GameChat
 Plugin for Nukkitx Software
 
+
+# Thai Language
 **Command**<br>
 ```
 - /game : เปิดเมนูเกมส์แชท
@@ -35,3 +37,5 @@ Database: YAML
 **วิธ๊การใช้งาน**<br>
 https://www.youtube.com/watch?v=XJAkVo_tqh8&t=291s
 
+# English Language
+Pls waittt. I'm lazy hahahh.
