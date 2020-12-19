@@ -34,7 +34,7 @@ Database: YAML
 ```
 
 **Download .jar Files**<br>
-- https://github.com/OverCatX/RandomOre/releases/download/1.0/RandomOre.jar
+- https://github.com/OverCatX/GameChat/releases/download/1.0/Gamechat.jar
 
 **วิธ๊การใช้งาน**<br>
 https://www.youtube.com/watch?v=XJAkVo_tqh8&t=291s
